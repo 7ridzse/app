@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262445272403",
+    "firebase_url": "https://billyreactproject.firebaseio.com",
+    "project_id": "billyreactproject",
+    "storage_bucket": "billyreactproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262445272403:android:4b251edf7e97a63280e5a6",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262445272403-63q6rua10frm3olnrs7pphevdqivfcfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFLrB6CFpGFMi3MZfF21t_ExVxEcTmgR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262445272403-63q6rua10frm3olnrs7pphevdqivfcfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
